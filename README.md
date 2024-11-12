@@ -43,4 +43,4 @@ task <br>
 
 <h3>How to use the App?</h3>
 <p> - After having everything set up and running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
-<p> - You can now add, edit and remove items in your todo list. </p>
+<p> - You can now add, edit and remove items in your To-Do list. </p>
